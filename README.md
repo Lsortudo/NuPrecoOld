@@ -72,13 +72,13 @@ Which language and why did I choose?
 
 # APP Screenshot/Videos
 
-![Main screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/MainScreen.png)
+![Main screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/MainScreen.png) <br>
 ![Ingredient Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/IngredientScreen.png)
+![Creating Ingredient Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/detailsIngredientScreen.png) <br>
 ![Recipe Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/RecipeScreen.png)
-![Creating Ingredient Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/detailsIngredientScreen.png)
-![Creating Recipe Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/detailsRecipeScreen.png)
+![Creating Recipe Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/detailsRecipeScreen.png) <br>
+![Fixed Costs Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/CalculationScreen.png) <br>
 ![Filled Creating Recipe Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/filledRecipeScreen.png)
-![Fixed Costs Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/CalculationScreen.png)
 ![Filled Fixed Costs Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/filledCalculationScreen.png)
 
 ## Diagram about companies
