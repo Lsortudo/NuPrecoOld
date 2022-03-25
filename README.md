@@ -72,7 +72,14 @@ Which language and why did I choose?
 
 # APP Screenshot/Videos
 
-![Imagem da tela](https://github.com/Lsortudo/Movies-App/pasta/pasta/screenshots/screen_home.jpg)
+![Main screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/MainScreen.png)
+![Ingredient Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/IngredientScreen.png)
+![Recipe Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/RecipeScreen.png)
+![Creating Ingredient Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/detailsIngredientScreen.png)
+![Creating Recipe Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/detailsRecipeScreen.png)
+![Filled Creating Recipe Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/filledRecipeScreen.png)
+![Fixed Costs Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/CalculationScreen.png)
+![Filled Fixed Costs Screen](https://github.com/Lsortudo/NuPreco/blob/master/screenshots/filledCalculationScreen.png)
 
 ## Diagram about companies
 
